@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string name="navigation_drawer_open">Abrir cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="title_click">Clic en el título</string>
+    <string name="menu_camera">Camara</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Cuota</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_group">Grupo</string>
+    <string name="copyright">Damla Briones-Aplicaciones Moviles</string>
+</resources>
